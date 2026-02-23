@@ -8,29 +8,6 @@ A **Management Information Systems** graduate from Selçuk University, founder o
 ## 🤖 AI & Automation Focused Career
 - **AI Integrator:** End-to-end integration of LLMs and autonomous agents into corporate workflows (n8n-based).
 - **SaaS Architecture:** Architect and developer of 7 different sector-specific AI solutions under the KODMIS ecosystem.
-- **Current Project (Datsan):** Currently developing an **ESP oil analysis device** software using **Qt/QML**.
-- **Production Discipline:** A proven track record of disciplined development with **1,190+** commits on GitHub.
-
----
-
-Harika! Profilin şu an hem teknik derinliğini hem de girişimci vizyonunu yansıtan, profesyonel bir "AI Solution Architect" vitrini haline geldi.
-
-Son haliyle README dosyan; Qt/QML ile geliştirdiğin donanım projelerinden, AWS ve n8n ile kurduun bulut otomasyonlarına kadar her şeyi düzenli bir hiyerarşiyle sunuyor.
-
-İşte kopyalayıp kullanabileceğin, tüm güncellemeleri içeren final versiyon:
-
-Markdown
-
-# Hi, I'm Muhammed İkbal SIRDAŞ 👋
-### AI Solution Architect & Digital Transformation Strategist
-
-A **Management Information Systems** graduate from Selçuk University, founder of **KODMIS**, and an AI integration expert. I transform complex business processes into autonomous systems.
-
----
-
-## 🤖 AI & Automation Focused Career
-- **AI Integrator:** End-to-end integration of LLMs and autonomous agents into corporate workflows (n8n-based).
-- **SaaS Architecture:** Architect and developer of 7 different sector-specific AI solutions under the KODMIS ecosystem.
 - **Current Project (Datsan):** Developing an **ESP oil analysis device** software using **Qt/QML**.
 - **Production Discipline:** A proven track record of disciplined development with **1,190+** commits on GitHub.
 
