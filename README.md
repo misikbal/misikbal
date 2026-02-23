@@ -1,5 +1,5 @@
 # Hi, I'm Muhammed İkbal SIRDAŞ 👋
-### AI Solution Architect & Digital Transformation Strategist
+### AI Solution Architect & Back-end Developer
 
 A **Management Information Systems** graduate from Selçuk University, founder of **KODMIS**, and an AI integration expert. I transform complex business processes into autonomous systems.
 
