@@ -15,10 +15,11 @@ Selçuk Üniversitesi **Yönetim Bilişim Sistemleri** mezunu, **KODMIS** kurucu
 ## 🛠️ Teknolojik Yetkinlikler
 
 ### 📱 Cross-Platform & Desktop
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![QML](https://img.shields.io/badge/QML-blue?style=for-the-badge&logo=qt&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 ### 🌐 Web & Backend
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -33,10 +34,16 @@ Selçuk Üniversitesi **Yönetim Bilişim Sistemleri** mezunu, **KODMIS** kurucu
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 
 ---
-
 ## 📊 GitHub İstatistikleri
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=misikbal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Muhammed's GitHub stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=misikbal&show_icons=true&theme=radical&rank_icon=github&display_format=v2" alt="Muhammed's GitHub stats" height="170px" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=misikbal&theme=radical" alt="GitHub Streak" height="170px" />
+</p>
+
+### 🛠️ Kullandığım Diller (Görsel Hata Verirse Alternatif)
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misikbal&layout=compact&theme=radical&hide=html,css" alt="En Çok Kullanılan Diller" height="170px" />
 </p>
 ---
