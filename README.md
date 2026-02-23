@@ -36,16 +36,15 @@ Selçuk Üniversitesi **Yönetim Bilişim Sistemleri** mezunu, **KODMIS** kurucu
 
 ## 📊 GitHub İstatistikleri
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=misikbal&show_icons=true&theme=radical&rank_icon=github" alt="Muhammed's GitHub stats" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misikbal&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=misikbal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Muhammed's GitHub stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misikbal&layout=compact&theme=radical&hide=html,css" alt="En Çok Kullanılan Diller" height="170px" />
 </p>
-
 ---
 
 ## 📫 İletişim
-- 💼 [LinkedIn](https://www.linkedin.com/in/misikbal/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mikbals/)
 - 🌐 [KODMIS](https://kodmis.com)
-- ✉️ [iletisim@adresiniz.com]
+- ✉️ [info@kodmis.com]
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=misikbal&label=Profil%20Görüntüleme&color=0e75b6&style=flat-square" alt="misikbal" />
