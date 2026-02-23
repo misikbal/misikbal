@@ -37,14 +37,14 @@ Selçuk Üniversitesi **Yönetim Bilişim Sistemleri** mezunu, **KODMIS** kurucu
 ## 📊 GitHub İstatistikleri
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=misikbal&show_icons=true&theme=radical&rank_icon=github&display_format=v2" alt="Muhammed's GitHub stats" height="170px" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=misikbal&theme=radical" alt="GitHub Streak" height="170px" />
+
+  <img src="https://metrics.lecoq.io/misikbal?base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config_timezone=Europe%2FIstanbul&theme=radical" alt="GitHub Metrics" height="170px" />
 </p>
 
-### 🛠️ Kullandığım Diller (Görsel Hata Verirse Alternatif)
+### 🏆 Başarı Kupalarım
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misikbal&layout=compact&theme=radical&hide=html,css" alt="En Çok Kullanılan Diller" height="170px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=misikbal&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 ---
 
