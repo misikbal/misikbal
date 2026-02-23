@@ -1,25 +1,25 @@
-# Merhaba, Ben Muhammed İkbal SIRDAŞ 👋
-### Yapay Zeka Çözüm Mimarı & Dijital Dönüşüm Stratejisti
+# Hi, I'm Muhammed İkbal SIRDAŞ 👋
+### AI Solution Architect & Digital Transformation Strategist
 
-Selçuk Üniversitesi **Yönetim Bilişim Sistemleri** mezunu, **KODMIS** kurucusu ve yapay zeka entegrasyonu uzmanıyım. Karmaşık iş süreçlerini otonom sistemlere dönüştürüyorum.
-
----
-
-## 🤖 Yapay Zeka & Otomasyon Odaklı Kariyerim
-- **AI Entegratörü:** LLM ve otonom ajanların kurumsal süreçlere (n8n tabanlı) uçtan uca entegrasyonu.
-- **SaaS Mimarisi:** KODMIS bünyesinde 7 farklı sektörel yapay zeka çözümünün geliştirilmesi.
-- **Üretim:** 1.190+'dan fazla commit ile tescillenmiş disiplinli geliştirme süreci.
+A **Management Information Systems** graduate from Selçuk University, founder of **KODMIS**, and an AI integration expert. I transform complex business processes into autonomous systems.
 
 ---
 
-## 🛠️ Teknolojik Yetkinlikler
+## 🤖 AI & Automation Focused Career
+- **AI Integrator:** End-to-end integration of LLMs and autonomous agents into corporate workflows (n8n-based).
+- **SaaS Architecture:** Architect and developer of 7 different sector-specific AI solutions under the KODMIS ecosystem.
+- **Current Project (Datsan):** Currently developing an **ESP oil analysis device** software using **Qt/QML**.
+- **Production Discipline:** A proven track record of disciplined development with **1,190+** commits on GitHub.
+
+---
+
+## 🛠️ Technical Skills
 
 ### 📱 Cross-Platform & Desktop
 ![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![QML](https://img.shields.io/badge/QML-blue?style=for-the-badge&logo=qt&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 
 ### 🌐 Web & Backend
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -28,31 +28,25 @@ Selçuk Üniversitesi **Yönetim Bilişim Sistemleri** mezunu, **KODMIS** kurucu
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Altyapı & Otomasyon
+### ⚙️ Infrastructure & Automation
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 
 ---
-## 📊 GitHub İstatistikleri
 
+## 📊 Activity & Statistics
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=misikbal&theme=radical" alt="GitHub Streak" height="170px" />
-
-  <img src="https://metrics.lecoq.io/misikbal?base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config_timezone=Europe%2FIstanbul&theme=radical" alt="GitHub Metrics" height="170px" />
 </p>
 
-### 🏆 Başarı Kupalarım
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=misikbal&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
 ---
 
-## 📫 İletişim
+## 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/mikbals/)
 - 🌐 [KODMIS](https://kodmis.com)
-- ✉️ [info@kodmis.com]
+- ✉️ [info@kodmis.com](mailto:info@kodmis.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=misikbal&label=Profil%20Görüntüleme&color=0e75b6&style=flat-square" alt="misikbal" />
+  <img src="https://komarev.com/ghpvc/?username=misikbal&label=Profile%20Views&color=0e75b6&style=flat-square" alt="misikbal" />
 </p>
