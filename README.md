@@ -1,47 +1,50 @@
 # Merhaba, Ben Muhammed İkbal SIRDAŞ 👋
 ### Yapay Zeka Çözüm Mimarı & Dijital Dönüşüm Stratejisti
 
-Selçuk Üniversitesi **Yönetim Bilişim Sistemleri** mezunu olarak, işletme süreçlerini teknolojiyle modernize etmeye ve yapay zeka entegrasyonu ile otonom sistemler kurmaya odaklanıyorum. **KODMIS** çatısı altında 7 farklı sektörel SaaS çözümünün mimarisini yönetiyorum.
+Selçuk Üniversitesi **Yönetim Bilişim Sistemleri** mezunu, **KODMIS** kurucusu ve yapay zeka entegrasyonu uzmanıyım. Karmaşık iş süreçlerini otonom sistemlere dönüştürüyorum.
 
 ---
 
 ## 🤖 Yapay Zeka & Otomasyon Odaklı Kariyerim
-- **AI Entegratörü:** LLM (Büyük Dil Modelleri) ve otonom sistemlerin kurumsal süreçlere entegrasyonunda uzmanlık.
-- **Otonom Sistem Tasarımı:** **n8n** ve AI ajanları kullanarak manuel görevleri %80 oranında azaltan "Akıllı İş Akışları" geliştiriyorum.
-- **Veriye Dayalı Strateji:** Büyük veri setlerini analiz ederek stratejik karar destek sistemleri kurulumu yapıyorum.
-
-## 🚀 Girişimcilik: KODMIS
-Yapay zeka destekli; E-ticaret, Sağlık, Lojistik ve Analiz alanlarında **7 farklı SaaS çözümü** geliştirdim. Akıllı Lead Gen sistemleri ile müşteri bulma ve iletişim süreçlerini otomatize ediyorum.
+- **AI Entegratörü:** LLM ve otonom ajanların kurumsal süreçlere (n8n tabanlı) uçtan uca entegrasyonu.
+- **SaaS Mimarisi:** KODMIS bünyesinde 7 farklı sektörel yapay zeka çözümünün geliştirilmesi.
+- **Üretim:** 1.190+'dan fazla commit ile tescillenmiş disiplinli geliştirme süreci.
 
 ---
 
-## 🛠️ Teknik Yetkinlikler & Altyapı
-- **Full-Stack:** MERN Stack (MongoDB, Express, React, Node.js) ile yüksek performanslı mimariler.
-- **Cloud & Altyapı:** Cloudflare R2 ve Hetzner üzerinde güvenli, ölçeklenebilir veri depolama yönetimi.
-- **Üretim Disiplini:** GitHub üzerinde **1.190+ başarılı commit** ile tescillenmiş sürekli geliştirme kültürü.
+## 🛠️ Teknolojik Yetkinlikler
 
----
+### 📱 Cross-Platform & Desktop
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![QML](https://img.shields.io/badge/QML-blue?style=for-the-badge&logo=qt&logoColor=white)
 
-## 💻 Teknoloji Yığınım
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🌐 Web & Backend
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ Altyapı & Otomasyon
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 
 ---
 
 ## 📊 GitHub İstatistikleri
-![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=misikbal&show_icons=true&theme=radical&rank_icon=github)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=misikbal&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=misikbal&show_icons=true&theme=radical&rank_icon=github" alt="Muhammed's GitHub stats" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misikbal&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" height="170px" />
+</p>
 
 ---
 
-## 📫 Benimle İletişime Geçin
-- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/misikbal/)
-- 🌐 [KODMIS Web Sitesi](https://kodmis.com)
-- ✉️ [E-posta](mailto:info@kodmis.com)
+## 📫 İletişim
+- 💼 [LinkedIn](https://www.linkedin.com/in/misikbal/)
+- 🌐 [KODMIS](https://kodmis.com)
+- ✉️ [iletisim@adresiniz.com]
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=misikbal&label=Profil%20Görüntüleme&color=0e75b6&style=flat-square" alt="misikbal" />
